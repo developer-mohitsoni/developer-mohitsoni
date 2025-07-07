@@ -1,0 +1,17 @@
+name: Generate 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # once daily
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate GitHub Contribution Snake
+
+    steps:
+      - name: Generate GitHub 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.5.1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
