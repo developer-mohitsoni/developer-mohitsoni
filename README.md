@@ -68,15 +68,22 @@
 ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-27C3FF?style=flat-square&logo=hoppscotch&logoColor=white)
 
 ---
+### 🧠 Contributions Overview
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="500" />
+</p>
+
+---
 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mohitsoni&theme=tokyonight&hide_border=true" />
+  <img width="450" src="https://github-readme-streak-stats.herokuapp.com/?user=developer-mohitsoni&theme=tokyonight&hide_border=true" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api?username=developer-mohitsoni&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="450" src="https://github-readme-stats.vercel.app/api?username=developer-mohitsoni&show_icons=true&theme=tokyonight&hide_border=true" />
   <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-mohitsoni&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developer-mohitsoni&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -91,33 +98,7 @@
 
 ### 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-soni-781b6b250/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-soni-781b6b250/) &nbsp;&nbsp;&nbsp;
 [![Twitter](https://img.shields.io/badge/X-%23000000.svg?style=flat-square&logo=X&logoColor=white)](https://x.com/MohitSoni2002)
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white)](https://yourwebsite.com) -->
-
----
-
----
-
-### ⚡ Fun Fact
-
-```txt
-I may look chill, but my Redis cache is always hot 🔥
-```
-
----
-
----
-## 🧠 Contributions Overview
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="700" />
-</p>
-
----
-
-### ⌨️ My Coding Activity (Last 7 Days)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
