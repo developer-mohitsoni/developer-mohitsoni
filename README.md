@@ -98,7 +98,21 @@
 
 ---
 
+---
+
 ### ⚡ Fun Fact
 
 ```txt
 I may look chill, but my Redis cache is always hot 🔥
+```
+
+---
+
+---
+## 🧠 Contributions Overview
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions" width="700" />
+</p>
+
+---
